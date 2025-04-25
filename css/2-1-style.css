@@ -829,6 +829,17 @@ p span {
 	padding-left: 30px;
 	font-weight: bold;
 }
+.text_Crimson_2 {
+	line-height: 25px;
+	table-layout: fixed;
+	word-wrap: break-word;
+	word-break: normal;
+	text-align: justify;
+	text-justify: inter-ideograph;
+	color: #000000;
+	padding-left: 30px;
+	font-weight: bold;
+}
 .text_Orange {
 	color: #F60;
 	padding-left: 30px;
