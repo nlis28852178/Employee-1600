@@ -749,6 +749,16 @@ p span {
 	color: #000;
 	padding-left: 30px;
 }
+.text1-01 {
+	line-height: 25px;
+	table-layout: fixed;
+	word-wrap: break-word;
+	word-break: normal;
+	text-align: justify;
+	text-justify: inter-ideograph;
+	color: #000;
+	padding-left: 55px;
+}
 .text1-1 {
 	line-height:25px;
 	table-layout: fixed;
